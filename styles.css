@@ -1,0 +1,11 @@
+li {
+    font-size: 100px;
+    color: #333;
+    font-weight: bold;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 100px;
+}
